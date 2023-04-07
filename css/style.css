@@ -68,16 +68,16 @@ html {
 	width: 25%;
 }
 
-.cloud-bottom {
-	position: absolute;
-	bottom: 300px;
-	left: 8rem;
-}
-
 .cloud-top {
 	position: absolute;
 	top: 50px;
 	right: 9rem;
+}
+
+.cloud-bottom {
+	position: absolute;
+	bottom: 300px;
+	left: 8rem;
 }
 
 .copyright-info {
