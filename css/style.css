@@ -69,15 +69,15 @@ html {
 }
 
 .cloud-bottom {
-	position: relative;
+	position: absolute;
 	bottom: 300px;
-	right: 8rem;
+	left: 8rem;
 }
 
 .cloud-top {
 	position: absolute;
 	top: 50px;
-	right: 300px;
+	right: 9rem;
 }
 
 .copyright-info {
@@ -156,11 +156,3 @@ html {
 	position: relative;
 	top: 1px;
 }
-
-
-
-
-
-/********** ID SELECTORS **********/
-
-
